@@ -1,0 +1,2 @@
+robots/a1_description:robots/aliengo_description:robots/go1_description:robots/laikago_description:unitree_controller:unitree_gazebo:unitree_legged_control:unitree_legged_msgs
+-DCATKIN_DEVEL_PREFIX=/mnt/c/Users/pondp/Documents/ROS_ee106a/a1_soccer/devel -DCMAKE_INSTALL_PREFIX=/mnt/c/Users/pondp/Documents/ROS_ee106a/a1_soccer/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/mnt/c/Users/pondp/Documents/ROS_ee106a/a1_soccer/install
+
+Name: unitree_legged_real
+Description: Description of unitree_legged_real
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
